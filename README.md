@@ -1,2 +1,3 @@
-# web_template
-Fully responsive website Template using Bootstrap.
+Hi there,
+
+My name is Arens and i'm a web-developer
